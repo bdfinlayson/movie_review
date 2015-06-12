@@ -1,0 +1,12 @@
+== README
+
+This app is a movie review application based on Mackenzie Child's excellent rails tutorial series: https://mackenziechild.me/12-in-12/5/
+
+The app features include:
+
+  – Users
+  – Reviews
+  – Ratings
+  – Search
+  – HAML
+  – Bootstrap
