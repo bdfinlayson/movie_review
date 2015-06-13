@@ -14,3 +14,4 @@ gem 'spring', group: :development
 gem 'devise'
 gem 'paperclip'
 gem 'bootstrap-sass'
+gem 'searchkick'
