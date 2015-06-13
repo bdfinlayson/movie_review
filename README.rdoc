@@ -10,3 +10,7 @@ The app features include:
   – Search
   – HAML
   – Bootstrap
+
+Requires Java and Elasticsearch
+
+run `bin/elasticsearch
